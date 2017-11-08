@@ -1,0 +1,4 @@
+Those files were used to create yaml files for SUS-16-051.
+ - convert limit curves
+ - convert 2D x-section upper limits
+ - convert correlation matrices
